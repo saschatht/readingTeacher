@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-readingteacher-dev-7736d-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975053239733:role/amplify-readingteacher-dev-7736d-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975053239733:role/amplify-readingteacher-dev-7736d-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-readingteacher-dev-7736d-deployment",
+      "UnauthRoleName": "amplify-readingteacher-dev-7736d-unauthRole",
+      "StackName": "amplify-readingteacher-dev-7736d",
+      "StackId": "arn:aws:cloudformation:us-east-1:975053239733:stack/amplify-readingteacher-dev-7736d/70c5da70-7856-11ef-a4ab-125e2710ea35",
+      "AmplifyAppId": "d2yd1o6ngab54r"
+    },
+    "categories": {
+      "auth": {
+        "readingteacherb4d0b4b1": {}
+      },
+      "predictions": {
+        "polly": {}
+      }
+    }
+  }
+}
